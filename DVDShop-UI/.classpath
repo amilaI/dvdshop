@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/amilai/org.json-20120521.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/mysql-connector-java-5.1.22.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/hibernate-core-4.1.9.Final.jar" sourcepath="/home/amilai/hibernate-core-4.1.9.Final.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/hibernate-core-4.1.9.Final-sources.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/Downloads/DVD-Final-Edited/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/Downloads/DVD-Final-Edited/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/Downloads/DVD-Final-Edited/javax.transaction-api-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/Downloads/DVD-Final-Edited/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/Downloads/DVD-Final-Edited/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/Downloads/DVD-Final-Edited/antlr-2.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

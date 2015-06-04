@@ -1,0 +1,3 @@
+#!/bin/sh
+service portello start || true
+service logstash-application start
